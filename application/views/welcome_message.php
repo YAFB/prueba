@@ -72,7 +72,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 
 
-	<h1>FridaGm</h1>
+	<h1>Frida González Meza</h1>
 
 
 	<div id="body">
